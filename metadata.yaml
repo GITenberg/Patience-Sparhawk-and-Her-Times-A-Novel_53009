@@ -1,0 +1,28 @@
+_repo: Patience-Sparhawk-and-Her-Times-A-Novel_53009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2016-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: 'Patience Sparhawk and Her Times: A Novel'
+url: http://www.gutenberg.org/ebooks/53009
